@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=court1
+comment0.text=\n\ Write\ a\ description\ of\ class\ court1\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=bool
+comment1.target=court1(java.lang.Boolean)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ court1.\n\ \n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ popup()
+comment4.params=
+comment4.target=java.lang.Boolean\ bool()
+numComments=5
